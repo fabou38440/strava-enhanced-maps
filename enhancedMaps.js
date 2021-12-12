@@ -2,7 +2,7 @@ class EnhancedMaps {
 	allMaps = [{
 			id: "geoportail",
 			name: "IGN Satellite",
-			tileUrl: "https://strava.xavierdeneux.fr/geoportail/wmts?layer=ORTHOIMAGERY.ORTHOPHOTOS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
+			tileUrl: "https://strava.xavierdeneux.fr/8jdgffs9i650h6hukfxdip4v/geoportail/wmts?layer=ORTHOIMAGERY.ORTHOPHOTOS&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}",
 		},
 		{
 			id: "ign-classic",
